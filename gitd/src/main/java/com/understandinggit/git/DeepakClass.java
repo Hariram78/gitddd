@@ -6,6 +6,7 @@ public class DeepakClass {
 		// TODO Auto-generated method stub
 
 		System.out.println("Deepak lives in london");
+		System.out.println("Deepak transferred to ");
 	}
 
 }
